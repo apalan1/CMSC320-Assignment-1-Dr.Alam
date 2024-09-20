@@ -11,3 +11,8 @@ Answer: It could be applied to the medical field by analying epidemiological dat
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging saves the history while rebasing creates a new line
+
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: My git skills and my proficiency in python
