@@ -6,3 +6,8 @@ Answer: It allows you to work together with projects on others by creating branc
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: It could be applied to the medical field by analying epidemiological data over time.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging saves the history while rebasing creates a new line
